@@ -1,0 +1,59 @@
+.contain{
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+.equa{
+    width:49%;
+    margin-left:10px;
+    height:460px;
+}
+.first{
+    background-image: url(/static/img/small4.webp);
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height: 40%;
+    margin-bottom: 10px;
+    padding-top: 80px;
+    color: white;
+    box-sizing: border-box;
+}
+.second{
+    background-image: url(/static/img/small.webp);
+    height: 60%;
+   padding-top: 155px;
+   box-sizing: border-box;
+   color: white;
+}
+.ike{
+    height: 50%;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    display: flex;
+}
+.sub{
+    width: 49%;
+    height: 100%;
+    margin-left: 10px;
+   background-size: cover;
+   background-repeat: no-repeat;
+    background-image: url(/static/img/GettyImages-1492054825.jpeg);
+}
+.aku{
+    background-image: url(/static/img/small2.webp);
+    height: 50%;
+    margin-bottom: 10px;
+    color: white;
+    padding-top: 150px;
+    box-sizing: border-box;
+}
+.stories{
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+.subs{
+width: 24.5%;
+margin-right: 7px;
+height: fit-content;
+}
